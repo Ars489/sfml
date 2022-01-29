@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4xGyJa/0X+K4mgrJCebBN9B+jpi7h3UgM01L2lwjQYJ2OCTy+i7jfj4zmkvy/DAcT2ny1ao+KWn4Z+SJjubNow==",
+  "success": true,
+  "projectFilePath": "D:\\ASHUR\\ASHUR\\ASHUR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arseniy\\.nuget\\packages\\csfml\\2.5.0\\csfml.2.5.0.nupkg.sha512",
+    "C:\\Users\\Arseniy\\.nuget\\packages\\sfml.graphics\\2.5.0\\sfml.graphics.2.5.0.nupkg.sha512",
+    "C:\\Users\\Arseniy\\.nuget\\packages\\sfml.system\\2.5.0\\sfml.system.2.5.0.nupkg.sha512",
+    "C:\\Users\\Arseniy\\.nuget\\packages\\sfml.window\\2.5.0\\sfml.window.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
